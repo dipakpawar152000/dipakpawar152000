@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipakpawar152000
-- 👀 I’m facinated about Android Development and Problem Solving.
-- 🌱 I’m currently exploring AI-ML Domain.
+- 👀 I’m facinated about Backend Development,Android Development and Problem Solving.
+- 🌱 I’m currently exploring Spring boot and Rest Api's.
 - 📫 Reach me out on -
                 Mo.no ;-) 8623878972
                 Email ;-> dipakpawar152000@gmail.com
